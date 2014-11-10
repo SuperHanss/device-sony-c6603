@@ -18,7 +18,7 @@ $(call inherit-product, vendor/sony/yuga_blobs/yuga_blobs.mk)
 PRODUCT_NAME := full_c6603
 PRODUCT_DEVICE := c6603
 PRODUCT_BRAND := Sony
-PRODUCT_MODEL := Full Android on C6603
+PRODUCT_MODEL := Xperia Z
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_LOCALES += xxhdpi xhdpi hdpi
 
